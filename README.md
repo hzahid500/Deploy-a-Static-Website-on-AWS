@@ -76,3 +76,4 @@ The architecture consists of a Virtual Private Cloud (VPC) with both public and 
    systemctl enable httpd
    systemctl start httpd
 
+```
