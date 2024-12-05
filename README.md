@@ -60,7 +60,7 @@ The architecture consists of a Virtual Private Cloud (VPC) with both public and 
 
 ## Deployment Steps
 
-1. **Clone the Repository**:
+1. **Steps to enable httpd and copy website files**:
    ```bash
    #!/bin/bash
 
