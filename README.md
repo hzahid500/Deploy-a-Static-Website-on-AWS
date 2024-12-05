@@ -1,3 +1,6 @@
+![Alt text](Html.png)
+
+---
 # Hosting a Static Website on AWS with High Availability and Scalability
 
 This project demonstrates how to host a static HTML website on AWS, leveraging AWS services and best practices to ensure high availability, fault tolerance, and scalability. The infrastructure was designed with a focus on security, automation, and elasticity.
